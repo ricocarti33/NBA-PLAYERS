@@ -1,0 +1,39 @@
+<html>
+	<head>
+		<tittle>NBA PLAYERS
+		</tittle>		
+
+					
+	</head>	
+	<body>
+		<p>
+		</p>
+
+	<img src="https://www.gannett-cdn.com/presto/2018/10/19/USAT/ed1cee67-05ad-4431-8327-7705a9c5b61e-USP_NBA__Los_Angeles_Lakers_at_Portland_Trail_Blaz.JPG?crop=2952,1661,x0,y864&width=3200&height=1680&fit=bounds" width="150" >
+	</body>			
+
+<table style="width:100%">
+  <tr>
+      <th>Player</th>
+      <th>endorsement</th>
+      <th>Team</th>
+  </tr>  
+    <tr> 
+        <td>LeBron James</td>    
+        <td>Nike</td>
+        <td>Lakers</td>    
+    </tr>
+    <tr>
+        <td>Kevin Durant</td>
+        <td>Nike</td>
+        <td>Golden State Warriors</td>
+    </tr>
+</table>
+<tittle>BEST NBA PLAYERS OF ALL TIME</tittle>
+<ol type="1">
+    <li>Kobe Bryant</li>
+    <li>Michael Jordan</li>
+    <li>LeBron James</li>
+</ol>
+<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjh_-XAtqrhAhVBaq0KHXoyCxMQjRx6BAgBEAU&url=https%3A%2F%2Fwww.complex.com%2Fsports%2F2018%2F12%2Fkevin-durant-michael-jordan-highlights&psig=AOvVaw29zRSFVdjlopfywBCHQuNB&ust=1554054364063521"width="156">
+</html>
