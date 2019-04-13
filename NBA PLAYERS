@@ -2,14 +2,39 @@
 	<head>
 		<tittle>NBA PLAYERS
 		</tittle>		
-
+	<style>
+.topnav {
+overflow:hidden;
+background-color:#ddd;
+color:black;
+}
+  /*style the topnav links */
+  .topnav a {
+  float: left;
+  display:block;
+  color:#f2f2f2;
+  text-align:center;
+  padding:l4px 16px;
+  text-decpration:none;
+  }
+    /*change color on hover*/
+    .topnav a:hover {
+    background-color:#ddd;
+    color:black;
+    }
+    </style>
 					
 	</head>	
 	<body>
-		<p>
+    <div class="topnav">
+    <a href="https://www.youtube.com">youtube</a>
+    <a href="http://www.espn.com">ESPN</a>
+    <a href="https://www.nba.com/#/">NBA</a>
+    </div>
+    	<p>
 		</p>
 
-	<img src="https://www.gannett-cdn.com/presto/2018/10/19/USAT/ed1cee67-05ad-4431-8327-7705a9c5b61e-USP_NBA__Los_Angeles_Lakers_at_Portland_Trail_Blaz.JPG?crop=2952,1661,x0,y864&width=3200&height=1680&fit=bounds" width="150" >
+	<img src="https://www.gannett-cdn.com/presto/2018/10/19/USAT/ed1cee67-05ad-4431-8327-7705a9c5b61e-USP_NBA__Los_Angeles_Lakers_at_Portland_Trail_Blaz.JPG?crop=2952,1661,x0,y864&width=3200&height=1680&fit=bounds" width="700" >
 	</body>			
 
 <table style="width:100%">
@@ -35,5 +60,5 @@
     <li>Michael Jordan</li>
     <li>LeBron James</li>
 </ol>
-<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjh_-XAtqrhAhVBaq0KHXoyCxMQjRx6BAgBEAU&url=https%3A%2F%2Fwww.complex.com%2Fsports%2F2018%2F12%2Fkevin-durant-michael-jordan-highlights&psig=AOvVaw29zRSFVdjlopfywBCHQuNB&ust=1554054364063521"width="156">
+<img src="https://www.theplayerstribune.com/en-us/articles/kobe-bryant-allen-iverson-obsession-is-natural" alt="image" width="400">
 </html>
